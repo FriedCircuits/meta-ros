@@ -3,6 +3,6 @@ SECTION = "devel"
 LICENSE = "GPLv2"
 LIC_FILES_CHKSUM = "file://package.xml;beginline=23;endline=23;md5=25b516c94d60212cdc875cf609e2dca5"
 
-DEPENDS = "roscpp camera_info_manager image_transport nodelet sensor_msgs"
+DEPENDS = "roscpp camera-infomanager image-transport nodelet sensor-msgs"
 
 require camera-umd.inc
